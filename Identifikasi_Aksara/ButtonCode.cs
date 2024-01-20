@@ -10,7 +10,7 @@ namespace Identifikasi_Aksara
     internal class ButtonCode
     {
         private ImageProcessing ip = new ImageProcessing();
-        private readonly string koneksi = "Provider = Microsoft.ACE.OLEDB.12.0; Data Source = B:\\My Documents\\Coding\\C#\\Identifikasi_Aksara\\Identifikasi_Aksara\\dbAksara.accdb";
+        private readonly string koneksi = "Provider = Microsoft.ACE.OLEDB.12.0; Data Source = A:\\My Documents\\Coding\\C#\\Identifikasi_Aksara\\Identifikasi_Aksara\\dbAksara.accdb";
         private string sql = "";
 
         internal void Input(List<PictureBox> pbs, List<TextBox> tbs, PictureBox pb)

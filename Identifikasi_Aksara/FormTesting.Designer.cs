@@ -279,7 +279,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "FormTesting";
-            this.Text = "Identifikasi Aksara";
+            this.Text = "Form Testing";
             ((System.ComponentModel.ISupportInitialize)(this.pbThinning)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbCrop)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbBiner)).EndInit();
